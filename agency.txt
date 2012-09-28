@@ -1,0 +1,2 @@
+agency_id, agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+mascot,Mascot Transit,http://www.matsutransit.com/,America/Ancorage,(907)864-5000,en
