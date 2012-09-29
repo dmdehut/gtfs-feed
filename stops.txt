@@ -1,0 +1,17 @@
+stop_id,stop_name,stop_lat,stop_lon
+1,Walmart,61.568761,-149.363648
+2,Three Bears - Four Corners,61.599548,-149.245151
+3,Job Corps,61.589918,-149.099849
+4,Mat-Su Regional Hospital,61.562546,-149.258466
+5,Mat-Su College,61.579817,-149.241288
+6,Borough Building,61.599428,-149.108744
+7,Courthouse,61.601919,-149.104751
+8,Blueberry Drive,61.605734,-149.116916
+9,Palmer Fred Meyers,61.600894,-149.11843
+10,Pioneer Home,61.596574,-149.113077
+11,Mat-Su Senior Services,61.594703,-149.111473
+12,Alaska Family Services,61.586243,-149.110484
+13,RED GATE AK State Fairgrounds,61.57782,-149.133559
+14,Palmer DMV,61.587116,-149.129468
+15,Palmer Carrs,61.598079,-149.127003
+16,Trunk Rd. Park & Ride,61.565151,-149.263098
